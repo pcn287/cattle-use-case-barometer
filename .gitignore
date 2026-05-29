@@ -322,3 +322,7 @@ main.py
 data/*
 output*/*
 tableau_conf.json
+
+# GD API download (local credentials and outputs)
+GD API data query/.env
+GD API data query/downloads/
